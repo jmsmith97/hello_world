@@ -6,7 +6,7 @@ public class hello {
 
        // initialize variables
        String firstName = "Jonathan";
-       System.out.println("Hello, I am " + firstname);
+       System.out.println("Hello, I am " + firstName);
 	
        // Using the value of the variable above, output a message in the format, "Hello, I am Alex".
 
